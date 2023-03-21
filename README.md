@@ -16,13 +16,37 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
   <h1>Hello World!  👋 </h1>
+  <p>My name is Alan Palavecino Frez And I am a Software Developer</p>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjExNmUwN2U1NDBhOTM4NzM4YzQ0YjU0NTQxYTY4MmM5YTkwMjczMCZjdD1n/sk6yL9EGVeAcE/giphy.gif" width="80%"/>
 </div>
 
 
 ---
 ### 👨‍💻 About Me:
-- I am a Full Stack Software Developer who got his start in High School and is now Studying at NAIT
-- I immigrated from Chile 🇨🇱 to Canada 🇨🇦
+- I began coding in High School and am now Studying at NAIT
+- I have a total of 6 years coding! (so far)
+- I am a Canadian who immigrated from Chile (which means I speak Spanish and English!)
+- I love technology and am excited to find a career in tech
+- :mailbox:Where to reach me: [![Linkedin Badge](https://img.shields.io/badge/-alanpalafrez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alanpalafrez/)
 
+---
+## What Do I know
+### 📚 Languages:
+- Javascript
+- HTML
+- CSS
+- C
+- C#
+- Python
+- SQL
+- LINQ
 
+### 🧰 Frameworks/Libraries:
+- Node.js
+- Next.js
+- React
+- Bootstrap
+- Material UI
+- .NET
+- Razor
+- Blazor
