@@ -23,12 +23,11 @@ Here are some ideas to get you started:
 
 ---
 ### 👨‍💻 About Me:
-- I began coding in High School and am now Studying at NAIT
-- I have a total of 6 years coding! (so far)
-- I am a Canadian who immigrated from Chile (which means I speak Spanish and English!)
+- I began programming in 2016 at High School
+- I was born in Chile and moved to Canada when I was 6
 - I love technology and am excited to find a career in tech
 - ***I am currently looking for a co-op / internship position***
-- :mailbox:Where to reach me: [![Linkedin Badge](https://img.shields.io/badge/-alanpalafrez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alanpalafrez/)
+- :mailbox:Where to reach me: [![Linkedin Badge](https://img.shields.io/badge/-alanpalafrez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alanpalafrez/) or at palavecinofrez@gmail.com
 
 ---
 ## What Do I know
