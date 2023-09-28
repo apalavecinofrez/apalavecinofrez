@@ -16,37 +16,22 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
   <h1>Hello World!  👋 </h1>
-  <p>My name is Alan Palavecino Frez And I am a Software Developer</p>
+  <p>My name is Alan Palavecino Frez And I am a <b>Software Developer<b><p>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjExNmUwN2U1NDBhOTM4NzM4YzQ0YjU0NTQxYTY4MmM5YTkwMjczMCZjdD1n/sk6yL9EGVeAcE/giphy.gif" width="80%"/>
 </div>
 
 
 ---
 ### 👨‍💻 About Me:
-- I began programming in 2016 at High School
+- I began programming in High School (2016) with Python and Java
+- I studied ```Computer Science``` at the **University of Alberta** for 2 years before transferring to **NAIT** where I am *studying Computer Software Development*
+- I practice kickboxing 🥊 and I play the saxophone 🎷
 - I was born in Chile and moved to Canada when I was 6
 - I love technology and am excited to find a career in tech
-- ***I am currently looking for a co-op / internship position***
 - :mailbox:Where to reach me: [![Linkedin Badge](https://img.shields.io/badge/-alanpalafrez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alanpalafrez/) or at palavecinofrez@gmail.com
 
 ---
-## What Do I know
-### 📚 Languages:
-- Javascript
-- HTML
-- CSS
-- C
-- C#
-- Python
-- SQL
-- LINQ
-
-### 🧰 Frameworks/Libraries:
-- Node.js
-- Next.js
-- React
-- Bootstrap
-- Material UI
-- .NET
-- Razor
-- Blazor
+## What Do I know 🧠
+| Programming languages                                                                                                | Frameworks                                                                                                                | Else                                                                                                                                           |
+|----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| - HTML<br>- CSS<br>- JavaScript<br>- Typescript<br>- C#<br>- C<br>- Java<br>- Dart<br>- Python<br>- MongoDB<br>- SQL | - .NET<br>- ASP.NET<br>- .NET CORE<br>- ASP.NET CORE<br>- React<br>- NextJS<br>- Flutter<br>- Razor<br>- Blazor<br>- Linq | - Use of APIs<br>- AWS Amplify<br>- FireBase<br>- NodeJS<br>- Github<br>- Unit testing<br>- Component libraries (React Bootstrap, Material UI) |
