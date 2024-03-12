@@ -23,11 +23,10 @@ Here are some ideas to get you started:
 
 ---
 ### 👨‍💻 About Me:
-- I began programming in High School (2016) with Python and Java
-- I studied ```Computer Science``` at the **University of Alberta** for 2 years before transferring to **NAIT** where I am *studying Computer Software Development*
+- I began programming in High School (2016) with Python creating simple games using ASCII art
+- I achieved my Diploma in Digital Media and IT specializing in _**Computer Software Development**_ from **NAIT** in 2023
 - I practice kickboxing 🥊 and I play the saxophone 🎷
 - I was born in Chile and moved to Canada when I was 6
-- I love technology and am excited to find a career in tech
 - :mailbox:Where to reach me: [![Linkedin Badge](https://img.shields.io/badge/-alanpalafrez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alanpalafrez/) or at palavecinofrez@gmail.com
 
 ---
