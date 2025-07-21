@@ -23,14 +23,13 @@ Here are some ideas to get you started:
 
 ---
 ### 👨‍💻 About Me:
-- I began programming in High School (2016) with Python creating simple games using ASCII art
+- I began programming in High School (2016)
 - I achieved my Diploma in Digital Media and IT specializing in _**Computer Software Development**_ from **NAIT** in 2023
-- I practice kickboxing 🥊 and I play the saxophone 🎷
-- I was born in Chile and moved to Canada when I was 6
-- :mailbox:Where to reach me: [![Linkedin Badge](https://img.shields.io/badge/-alanpalafrez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alanpalafrez/) or at palavecinofrez@gmail.com
+- I speak English and Spanish
+- :mailbox:Where to reach me: LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-alanpalafrez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alanpalafrez/) or at palavecinofrez@gmail.com
 
 ---
 ## What Do I know 🧠
 | Programming languages                                                                                                | Frameworks                                                                                                                | Else                                                                                                                                           |
 |----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| - HTML<br>- CSS<br>- JavaScript<br>- Typescript<br>- C#<br>- C<br>- Java<br>- Dart<br>- Python<br>- MongoDB<br>- SQL | - .NET<br>- ASP.NET<br>- .NET CORE<br>- ASP.NET CORE<br>- React<br>- NextJS<br>- Flutter<br>- Razor<br>- Blazor<br>- Linq | - Use of APIs<br>- AWS Amplify<br>- FireBase<br>- NodeJS<br>- Github<br>- Unit testing<br>- Component libraries (React Bootstrap, Material UI) |
+| - HTML<br>- CSS<br>- JavaScript<br>- Typescript<br>- C#<br>- C<br>- Java<br>- Dart <br>- SQL | - React<br>- NextJS<br>- Flutter<br>- Razor<br>- Blazor<br>- Linq | <br>- Figma <br>- Use of APIsy<br>- FireBase<br>- NodeJS<br>- Github<br>- Unit testing<br>- Component libraries (React Bootstrap, Material UI) |
